@@ -834,6 +834,104 @@
     {
       "state": "Puducherry",
       "districts": ["Karaikal", "Mahe", "Puducherry", "Yanam"]
-    }
+    },
+    {
+  "state": "Manipur",
+  "districts": [
+    "Bishnupur",
+    "Chandel",
+    "Churachandpur",
+    "Imphal East",
+    "Imphal West",
+    "Jiribam",
+    "Kakching",
+    "Kamjong",
+    "Kangpokpi",
+    "Noney",
+    "Pherzawl",
+    "Senapati",
+    "Tamenglong",
+    "Tengnoupal",
+    "Thoubal",
+    "Ukhrul"
+  ]
+},
+{
+  "state": "Meghalaya",
+  "districts": [
+    "East Garo Hills",
+    "East Jaintia Hills",
+    "East Khasi Hills",
+    "North Garo Hills",
+    "Ri Bhoi",
+    "South Garo Hills",
+    "South West Garo Hills",
+    "South West Khasi Hills",
+    "West Garo Hills",
+    "West Jaintia Hills",
+    "West Khasi Hills"
+  ]
+},
+{
+  "state": "Mizoram",
+  "districts": [
+    "Aizawl",
+    "Champhai",
+    "Hnahthial",
+    "Khawzawl",
+    "Kolasib",
+    "Lawngtlai",
+    "Lunglei",
+    "Mamit",
+    "Saiha",
+    "Saitual",
+    "Serchhip"
+  ]
+},
+{
+  "state": "Nagaland",
+  "districts": [
+    "Chumoukedima",
+    "Dimapur",
+    "Kiphire",
+    "Kohima",
+    "Longleng",
+    "Mokokchung",
+    "Mon",
+    "Niuland",
+    "Noklak",
+    "Peren",
+    "Phek",
+    "Shamator",
+    "Tseminyu",
+    "Tuensang",
+    "Wokha",
+    "Zunheboto"
+  ]
+},
+{
+  "state": "Sikkim",
+  "districts": [
+    "East Sikkim",
+    "North Sikkim",
+    "South Sikkim",
+    "West Sikkim",
+    "Pakyong",
+    "Soreng"
+  ]
+},
+{
+  "state": "Tripura",
+  "districts": [
+    "Dhalai",
+    "Gomati",
+    "Khowai",
+    "North Tripura",
+    "Sepahijala",
+    "South Tripura",
+    "Unakoti",
+    "West Tripura"
+  ]
+}
   ]
 }
